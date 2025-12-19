@@ -112,6 +112,56 @@ Stytch SDKs support the following authentication products:
 
 ---
 
+## Contributing
+
+We welcome contributions from the community! This repository serves as a reference guide for developers working with Twilio and Stytch SDKs.
+
+### How to Contribute
+
+1. **Fork the repository** and create a new branch for your changes
+   ```bash
+   git checkout -b feature/update-sdk-info
+   ```
+
+2. **Make your changes** following these guidelines:
+   - Keep the existing structure and formatting
+   - Maintain alphabetical or logical ordering within sections
+   - Include links to official documentation or GitHub repositories
+   - Verify all links are working and up-to-date
+
+3. **Commit your changes** with a clear, descriptive message
+   ```bash
+   git commit -m "Add new SDK or Update SDK documentation"
+   ```
+
+4. **Push to your fork** and submit a Pull Request
+   ```bash
+   git push origin feature/update-sdk-info
+   ```
+
+### What to Contribute
+
+- **New SDKs**: Add newly released SDKs from Twilio or Stytch
+- **Updates**: Update links, descriptions, or features for existing SDKs
+- **Corrections**: Fix broken links, typos, or inaccurate information
+- **Enhancements**: Improve documentation structure or add helpful context
+
+### Pull Request Guidelines
+
+- **Title**: Use a clear, descriptive title (e.g., "Add Twilio Flutter SDK" or "Update Stytch iOS SDK link")
+- **Description**: Explain what changes you made and why
+- **Testing**: Verify all links work before submitting
+- **One concern per PR**: Keep changes focused on a single update or addition
+
+### Suggesting Changes
+
+If you're not ready to submit a PR, you can:
+- Open an issue to suggest additions or corrections
+- Report broken links or outdated information
+- Request coverage of additional SDK features
+
+---
+
 ## Resources
 
 ### Twilio
